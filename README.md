@@ -1,2 +1,2 @@
 # asciibitsgoa.github.io
-Blog for student of BITS PILANI KK BIRLA GOA CAMPUS
+Blog for students of BITS PILANI KK BIRLA GOA CAMPUS
