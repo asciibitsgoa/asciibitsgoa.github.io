@@ -7,7 +7,9 @@ tags: [dsa,review]
 comments: true
 ---
 ## Handout
-[2017-2018 Sem 2][https://drive.google.com/open?id=1n31aQh1JUYfqrHc1ZgH_CTa_VqmTdU2C]
+[2017-2018 Sem 2][1]
 
 ## Review
 Students can add reviews in the comments below.
+
+[1]:https://drive.google.com/open?id=1n31aQh1JUYfqrHc1ZgH_CTa_VqmTdU2C
