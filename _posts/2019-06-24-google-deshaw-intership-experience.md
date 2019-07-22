@@ -6,23 +6,23 @@ excerpt: ""
 tags: [dbms,review]
 comments: true
 ---
-# Greetings from ASCII!
+###### Greetings from ASCII!
 
 This is the first post under the series of Internship Interviews and we have with us Ravishankar Joshi to share his Interview experience with Google and D.E. Shaw.
 
-# Team ASCII: The Company at which you received your Internship/Placement.
-# Ravishankar: Google, D E Shaw
+###### Team ASCII: The Company at which you received your Internship/Placement.
+###### Ravishankar: Google, D E Shaw
 
-# Team ASCII: How did you build your profile to suit the requirements of the company?
-# Ravishankar:
+###### Team ASCII: How did you build your profile to suit the requirements of the company?
+###### Ravishankar:
 I maintained high CGPA, made a few self-projects and did some competitive coding to build my profile.
 
 My CGPA was 9+ when I applied for the internships. I had a few self-projects (like a Chess game with AI, N-body simulation etc). I also had a few good ranks in codechef and Google Kickstart contests. Hence, projects, CGPA and contest ranks helped me get shortlisted for the interview. My PS 1 work at Hhomi Bhabha Centre of Science Education, Mumbai might also have helped, which was backend web development using Django.
 
 The Google interviews took place around 22nd September 2018. I had prepared for internship interviews during summer vacation (during PS1). I used “Cracking the coding interview” book and interviewbit.com as the preparation resources. I received quite a bit of help from seniors like Lohit Marodia etc for interview preparation and mock interviews.
 
-# Team ASCII: How should one prepare for the upcoming Placements/Internships?
-# Ravishankar:
+###### Team ASCII: How should one prepare for the upcoming Placements/Internships?
+###### Ravishankar:
 Without any doubt, Data Structures and Algorithms (DSA) is the most important course to clear coding tests and the interviews. Also, some companies like D E Shaw tend to ask a lot of OOP and Principles of Programming Languages (like specific features of C, C++, Java, Python), DBMS and OOP questions. However, I found our courses insufficient for interview preparation (since companies ask questions from topics like dynamic programming that are not covered in our DSA course). 
 
 Hence, Cracking the coding interview book and interviewbit are good resources to prepare for DSA questions.
@@ -35,8 +35,8 @@ Also, sometimes, luck plays an important role in such hiring processes, hence on
 
 I have also written an answer on Quora about this: [1]
 
-# Team ASCII: What transpired during the multiple rounds of selections? (Please describe the kind of questions in your technical round and HR interviews, the difficulty levels, time limits and provide a general walk-through of the process)
-# Ravishankar: 
+###### Team ASCII: What transpired during the multiple rounds of selections? (Please describe the kind of questions in your technical round and HR interviews, the difficulty levels, time limits and provide a general walk-through of the process)
+###### Ravishankar: 
 The first round for Google was based on resume shortlisting. The second round was telephonic interviews with Google interviewers. After 2 telephonic interviews, I was given the internship offer.
 
 The process consisted of 2 technical interviews (telephonic) of 45 minutes each, and no HR interview as such. The questions involved usual DSA questions. The questions did not involve any advanced topics and had only topics from our DSA syllabus. There were no questions from OOP or DBMS. I was asked 3 DSA questions in the first interview round, which I completed in around 35 minutes, due to which the interviewer was quite impressed. I was asked and solved 2 questions in 2nd round, which also I completed within the time limit (45 minutes). I think I solved all the questions most optimally possible, and hence cleared the interviews. At the end of both of the interviews, I was asked if I had any questions for the interviewer.
@@ -57,12 +57,12 @@ The HR round was also important, and it was mostly a personality and leadership 
 Finally, I chose Google offer over the D E Shaw internship offer.
 
 
-# All the best for your preparation and we hope to see you on the ASCII page!
+###### All the best for your preparation and we hope to see you on the ASCII page!
 
-# Best regards,
-# Team ASCII
+###### Best regards,
+###### Team ASCII
 
-## Review
+###### Review
 Students can add reviews in the comments below.
 
 [1]:https://www.quora.com/What-did-Ravishankar-Joshi-of-BITS-Goa-exactly-do-to-get-an-internship-at-Google"
